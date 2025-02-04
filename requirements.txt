@@ -1,5 +1,4 @@
 flask==2.2.5
-werkzeug==2.2.5
-gunicorn==20.1.0
+
 os-sys==2.1.4
 
